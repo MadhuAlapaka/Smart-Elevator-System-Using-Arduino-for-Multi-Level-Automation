@@ -180,8 +180,12 @@ void loop() {
   }
 }
 
+
 📜 License
+
 This project is shared for educational purposes. Feel free to fork, learn, modify, and build on it. Contributions and feedback are welcome!
+
+
 🙏 Acknowledgements
 We thank our guide Prof. Ganesh Lakshmana Kumar Moganti for his support and VIT-AP University for providing resources to make this project possible.
 
