@@ -1,5 +1,9 @@
-![image](https://github.com/user-attachments/assets/8e2af9fc-2b1e-494f-a160-628e6dcdb761)# 🚀 Elevator System Using Arduino
+# 🛗 Elevator Automation System using Arduino 🚀🔧📟
 
+![image](https://github.com/user-attachments/assets/8e2af9fc-2b1e-494f-a160-628e6dcdb761)# 
+# Smart Elevator System Using Arduino for Multi-Level Automation
+
+intro:
 This is a prototype model of a **multi-level elevator system** developed using the **Arduino platform**. It is designed to demonstrate core automation concepts, including real-time embedded control, electromechanical integration, and sensor-driven logic for floor navigation. This project is ideal for engineering students and hobbyists looking to learn automation systems using open-source hardware.
 
 ---
